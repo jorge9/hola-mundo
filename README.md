@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 mi primer repositorio de prueba
 
 Autor: Jorge Flores
